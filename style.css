@@ -228,3 +228,38 @@ section{
 .more:hover{
     color:#073144;
 }
+/*dkkkkkkkkkkkkkkkkkkk*/
+
+.next{
+    background-image: url(imagzs/background-1747777.jpg);
+}
+/*55555555555555555*/
+.foter{
+    background-color: #062c3d;
+}
+.gmail{
+    text-decoration: none;
+   color: black;
+   
+}
+
+/*----*/
+.foter{
+    background-color: #C9EEFF;
+    padding: 2em;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+  
+}
+.foterT{
+    font-size: 1.3em;
+    font-weight: 500;
+}
+.foterT span{
+    color: #186d85;
+}
+.foter .social-icons{
+    font-size: 1.3em;
+    padding: 0 12px 0 0 ;
+}
